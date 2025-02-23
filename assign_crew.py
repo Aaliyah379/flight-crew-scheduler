@@ -87,4 +87,4 @@ schedule_df['Assigned crew'] = schedule_df.apply(assign_crew_to_flight, axis=1)
 output_file = '/content/Schedule_with_Crew.csv'
 schedule_df.to_csv(output_file, index=False)
 
-print(f'Готово, любимая! Файл сохранен: {output_file} 💖')
+print(f'Готово,! Файл сохранен: {output_file} 💖')
