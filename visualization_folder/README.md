@@ -13,7 +13,7 @@ This project automates crew allocation to flights, analyzes crew workload and vi
 
 🛠 Technology
 🔹 Python (Pandas, Matplotlib, Seaborn)
-🔹 Jupyter Notebook / Google Colab
+🔹 Jupyter Notebook / Google Colab ( for this project used )
 🔹 GitHub for code storage
 
 📊 Data Visualization
@@ -27,7 +27,12 @@ This project automates crew allocation to flights, analyzes crew workload and vi
 
 pip install pandas matplotlib seaborn
 
-2️⃣ Run the crew_assignment.py script
+2️⃣ Run the assign_crew.py script
 3️⃣ Evaluate output files and visualization
 
-Translated with DeepL.com (free version)
+📁 Project files
+📌 assign_crew.py - Crew assignment code
+📌 Schedule_with_Crew.csv - Final file with assigned crew
+📌 visualization.ipynb - Google collab with graphs
+📌 README.md - Project Documentation
+
